@@ -1,0 +1,1 @@
+Visualizing and Describing a Time Series: time plots, autocovariance, and autocorrelation
