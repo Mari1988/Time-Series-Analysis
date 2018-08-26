@@ -1,0 +1,5 @@
+Objective of this week is to learn about,
+
+	1. Model Complexity using Akaike Information Criteria (AIC)
+	2. Mixed Models such as ARMA and ARIMA
+	3. Look at real-world case studies
